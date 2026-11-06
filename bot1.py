@@ -230,12 +230,12 @@ def main_buttons():
             url=f"https://t.me/{BOT_USERNAME}?startgroup=s&delete_message+manage_video_chats_message+invite_users")
           )
     kb.row(    
-         InlineKeyboardButton("𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url="https://t.me/myanmarbot_music"),
-         InlineKeyboardButton(" 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ", url="https://t.me/myanmar_music_Bot2027")
+         InlineKeyboardButton("𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url="https://t.me/myanmarmusic_powerful"),
+         InlineKeyboardButton(" 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ", url="https://t.me/Powerfulglobal")
           )
     kb.row(  
-        InlineKeyboardButton("𝟗𝟗𝟗", url="tg://resolve?domain=cores_999&text=𝐑𝐞𝐩𝐥𝐚𝐲_𝐁𝐨𝐭"),
-        InlineKeyboardButton("𝐀𝐥𝐥 𝐁𝐎𝐓", url="https://t.me/myanmarbot_music/53")
+        InlineKeyboardButton("𝐎𝐰𝐧𝐞𝐫", url="tg://resolve?domain=typic2k4&text=𝐑𝐞𝐩𝐥𝐚𝐲_𝐁𝐨𝐭"),
+        InlineKeyboardButton("𝐀𝐥𝐥 𝐁𝐎𝐓", url="https://t.me/myanmarmusic_powerful/6")
           )
     return kb
 # ======================
